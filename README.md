@@ -1,2 +1,3 @@
-# SOC-Intern
-Here is a shorter version 👍  Tested web apps like OWASP Juice Shop using Burp Suite, performed VAPT on Zero Bank, and analyzed email harassment, data exfiltration, and malware traffic to improve threat detection and incident response skills.
+SOC Intern – MKCC (17/12/2025 – 07/01/2026)
+
+Tested web applications like OWASP Juice Shop using Burp Suite, performed VAPT on the Zero Bank web application, and investigated email harassment, data exfiltration, and malware traffic analysis to improve threat detection and incident response skills.
